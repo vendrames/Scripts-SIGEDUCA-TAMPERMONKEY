@@ -32,7 +32,7 @@
             height: 30px !important;
             border-radius: 4px !important;
             font-family: Verdana, Arial, sans-serif !important;
-            font-size: 13px !important;
+            font-size: 15px !important;
             cursor: pointer;
         }
 
